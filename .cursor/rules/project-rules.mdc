@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- You should always follow the best industry standards and practices.
+- The code must be modular, clean and DRY.
